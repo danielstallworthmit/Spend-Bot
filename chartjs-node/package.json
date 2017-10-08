@@ -1,0 +1,12 @@
+{
+  "name": "chartjs-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.7.0",
+    "chartjs": "^0.3.24",
+    "chartjs-node": "^1.6.0",
+    "underscore": "^1.8.3"
+  }
+}
